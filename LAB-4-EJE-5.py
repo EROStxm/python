@@ -1,0 +1,7 @@
+a = input("Introduzca día y mes: ")
+b = input("Introduzca clima: ")
+c = input("Introduzca paralelo: ")
+d = input("Introduzca materia: ")
+e = input("Introduzca nombre de docente: ")
+f = input("Introduzca Hora: ")
+print("Hoy es {} y es un dia {}, estoy entrando al {} para pasar la materia de {}, mi docente es {}, en este momento son las {}".format(a, b, c, d, e, f))
